@@ -1,11 +1,11 @@
 global.owner = [
-  "2347043759577",
+  "237693132795",
   ""
 ]
 global.anitav4 = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.ownername = "David Cyril"
-global.packname = "𝐐𝐔𝐄𝐄𝐍_𝐀𝐍𝐈𝐓𝐀-𝐕𝟒"
-global.author = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
+global.ownername = "AF JOKER"
+global.packname = "Du mouvement de la haine"
+global.author = "AF JOKER"
 global.channelname = "𝐃𝐀𝐕𝐈𝐃 𝐂𝐘𝐑𝐈𝐋"
 global.channeljid = "120363315231436175@newsletter"
 global.autoTyping = false;                //make true to enable auto typing
@@ -17,7 +17,7 @@ global.autoLikeEmoji = "💚";    // Default emoji for liking statuses
 global.LEVELUP = false;
 
 
-global.ANTIVIEWONCE = false;
+global.ANTIVIEWONCE = true;
 
 global.roles = {
     1: "Novice",
@@ -30,14 +30,14 @@ global.roles = {
     25: "Legend",
 };
 
-global.sudoUsers = ["2349066528353@s.whatsapp.net", "2348129988915@s.whatsapp.net"]; // Add the JIDs of sudo users
+global.sudoUsers = ["237620721280@s.whatsapp.net", "237693132795@s.whatsapp.net"]; // Add the JIDs of sudo users
 
 
 
-global.public = true
+global.public = false
 
 
-global.ANTIDELETE = false;  
+global.ANTIDELETE = true;  
 
 global.unavailable = true;     
 //to show your real presence  
@@ -56,7 +56,7 @@ global.autobio = false;
 
 global.ANTICALL = false;
 
-global.antilink = false;
+global.antilink = true;
 
 global.antilinkkick = false;
 
